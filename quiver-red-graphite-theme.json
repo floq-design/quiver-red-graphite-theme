@@ -1,0 +1,256 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#dedede",
+      "middleColor": "#dedede",
+      "bottomColor": "#dedede"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "#2e3235",
+      "bottomBorderColor": "#2e3235",
+      "segmentedControl": {
+        "tintColor": "#666",
+        "borderWidth": 1,
+        "borderRadius": 1
+      }
+    },
+    "table": {
+      "backgroundColor": "#2e3235",
+      "textColor": "#ccc",
+
+      "selectedTextColor": "#f00",
+      "emphasizedTextColor": "#0f0",
+
+      "iconColor": "#666",
+
+      "selectedIconColor": "#f00",
+      "emphasizedIconColor": "#0f0",
+      "selectedRowBgColor": "#f00",
+      "emphasizedRowBgColor": "#0f0"
+    },
+    "bottomBar": {
+      "backgroundColor": "#2e3235",
+      "topBorderColor": "#2e3235",
+      "textColor": "#a0a0a0",
+      "controlColor": "#666666",
+      "pressedControlColor": "#de4751"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#fbfbfb",
+      "bottomBorderColor": "#fbfbfb",
+      "controlColor": "#cacaca",
+      "pressedControlColor": "#de4751"
+    },
+    "tableHeader": {
+      "backgroundColor": "#fbfbfb",
+      "bottomBorderColor": "#dedede",
+      "controlColor": "#cacaca",
+      "pressedControlColor": "#de4751"
+    },
+    "table": {
+      "backgroundColor": "#fbfbfb",
+      "separatorColor": "#dedede",
+      "textColor": "#333",
+      "selectedTextColor": "#333",
+      "emphasizedTextColor": "#fbfbfb",
+      "detailColor": "#ccc",
+      "selectedDetailColor": "#ccc",
+      "emphasizedDetailColor": "#e9b7bb",
+      "iconColor": "#ccc",
+      "selectedIconColor": "#ccc",
+      "emphasizedIconColor": "#e9b7bb",
+      "rowBgColor": "#fbfbfb",
+      "altRowBgColor": "#fbfbfb",
+      "selectedRowBgColor": "#efefef",
+      "emphasizedRowBgColor": "#de4751",
+      "draggedRowBgColor": "#efefef",
+      "emptyTextColor": "#545454"
+    },
+    "bottomBar": {
+      "backgroundColor": "#fbfbfb",
+      "searchField": {
+        "textColor": "#a0a0a0",
+        "controlColor": "#a0a0a0",
+        "pressedControlColor": "#de4751",
+        "backgroundColor": "#fbfbfb",
+        "borderColor": "#cacaca",
+        "placeholderColor": "#dedede"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#fbfbfb",
+    "dividerColor": "#dedede",
+    "topBar": {
+      "backgroundColor": "#fbfbfb",
+      "bottomBorderColor": "#fbfbfb",
+      "controlColor": "#ccc",
+      "pressedControlColor": "#de4751",
+      "segmentedControl": {
+        "tintColor": "#ccc",
+        "borderWidth": 1,
+        "borderRadius": 1
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#fbfbfb",
+      "dividerColor": "#fbfbfb",
+      "middleDividerColor": "#fbfbfb",
+      "controlColor": "#ccc",
+      "pressedControlColor": "#de4751",
+      "iconColor": "#ccc",
+      "textColor": "#ccc",
+      "popUpButton": {
+        "titleColor": "#ccc",
+        "borderColor": "#dedede"
+      },
+      "tagField": {
+        "textColor": "#ccc",
+        "placeholderColor": "#dedede",
+        "tag": {
+          "textColor": "#ccc",
+          "selectedTextColor": "#de4751",
+          "backgroundColor": "#fbfbfb",
+          "selectedBackgroundColor": "#fbfbfb",
+          "borderRadius": 0
+        }
+      },
+      "formatBar": {
+        "controlColor": "#ccc",
+        "highlightColor": "#de4751"
+      },
+      "searchField": {
+        "textColor": "#a0a0a0",
+        "controlColor": "#2e3235",
+        "pressedControlColor": "#de4751",
+        "backgroundColor": "#fbfbfb",
+        "borderColor": "#dedede",
+        "placeholderColor": "#dedede"
+      },
+      "doneButton": {
+        "textColor": "#a0a0a0",
+        "highlightBackgroundColor": "#de4751",
+        "borderColor": "#de4751"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#fbfbfb",
+      "controlColor": "#ccc",
+      "pressedControlColor": "#de4751"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#fbfbfb",
+    "textColor": "#a0a0a0",
+    "button": {
+      "tintColor": "#a0a0a0",
+      "highlightColor": "#de4751",
+      "backgroundColor": "#fbfbfb",
+      "highlightBackgroundColor": "#fbfbfb",
+      "borderColor": "#dedede",
+      "highlightBorderColor": "#dedede"
+    },
+    "tagField": {
+      "textColor": "#a0a0a0",
+      "placeholderColor": "#dedede",
+      "backgroundColor": "#fbfbfb",
+      "borderColor": "#dedede",
+      "borderRadius": 1,
+      "tag": {
+        "textColor": "#a0a0a0",
+        "selectedTextColor": "#fbfbfb",
+        "backgroundColor": "#fbfbfb",
+        "selectedBackgroundColor": "#de4751",
+        "borderRadius": 1
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#fbfbfb",
+    "textColor": "#a0a0a0",
+    "dividerColor": "#fbfbfb",
+    "searchField": {
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "backgroundColor": "#fbfbfb",
+      "borderColor": "#dedede",
+      "placeholderColor": "#dedede"
+    },
+    "table": {
+      "textColor": "#a0a0a0",
+
+      "selectedTextColor": "#f00",
+      "emphasizedTextColor": "#0f0",
+
+      "iconColor": "#de4751",
+
+      "selectedIconColor": "#f00",
+      "emphasizedIconColor": "#0f0",
+      "selectedRowBgColor": "#f00",
+      "emphasizedRowBgColor": "#0f0",
+
+      "emptyTextColor": "#a0a0a0"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#fbfbfb",
+    "searchField": {
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751",
+      "backgroundColor": "#fbfbfb",
+      "borderColor": "#dedede",
+      "placeholderColor": "#dedede"
+    },
+    "tableHeader": {
+      "backgroundColor": "#fbfbfb",
+      "topBorderColor": "#fbfbfb",
+      "bottomBorderColor": "#fbfbfb",
+      "textColor": "#a0a0a0",
+      "controlColor": "#a0a0a0",
+      "pressedControlColor": "#de4751"
+    },
+    "table": {
+      "backgroundColor": "#fbfbfb",
+      "separatorColor": "#dedede",
+      "textColor": "#333",
+      "selectedTextColor": "#fbfbfb",
+      "emphasizedTextColor": "#fbfbfb",
+      "detailColor": "#ccc",
+      "selectedDetailColor": "#e9b7bb",
+      "emphasizedDetailColor": "#e9b7bb",
+      "iconColor": "#ccc",
+      "selectedIconColor": "#e9b7bb",
+      "emphasizedIconColor": "#e9b7bb",
+      "rowBgColor": "#fbfbfb",
+      "altRowBgColor": "#fbfbfb",
+      "selectedRowBgColor": "#de4751",
+      "emphasizedRowBgColor": "#de4751",
+      "draggedRowBgColor": "#efefef",
+      "emptyTextColor": "#545454"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#fbfbfb"
+  },
+  "editor": {
+    "codeCellTheme": "xcode",
+    "markdownCellTheme": "xcode"
+  },
+  "css": {
+    "className": "red-graphite",
+    "editor": ".red-graphite{color:#545454}.red-graphite a{color:#de4751}.red-graphite table tr:nth-child(even){background-color:#fbfbfb}.red-graphite table th{background:#fbfbfb}.red-graphite table td,.red-graphite table th{border-color:#dedede}.red-graphite blockquote{color:#333}.red-graphite hr{background-color:#dedede}.red-graphite svg{background-color:#fbfbfb}.red-graphite .cell.inEditMode{border-color:#dedede;max-width:700px;margin:0 auto}.red-graphite .text-cell table,.red-graphite .text-cell table th,.red-graphite .text-cell table td{border:1px solid #dedede !important;}.red-graphite .text-cell,.red-graphite .latex-cell .editor{font-size:18px;line-height:1.6;font-family:'Avenir Next';max-width:700px;margin:0 auto;background-color:#fbfbfb;}.red-graphite .code-cell .editor,.red-graphite .markdown-cell .ace_editor{font-size:16px;line-height:1.6;max-width:700px;margin:0 auto}body{font-family:'Avenir Next'}.red-graphite .markdown-cell .ace_markup.ace_heading.ace_1,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_2,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_3,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_4,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_5,.red-graphite .markdown-cell .ace_markup.ace_heading.ace_6{color:#de4751!important}.red-graphite .markdown-cell .ace_heading,.red-graphite .markdown-cell .ace_string.ace_strong{color:#333!important;font-weight:bold}.red-graphite .markdown-cell .ace_line,.red-graphite .markdown-cell .ace_support.ace_function,.red-graphite .markdown-cell .ace_string.ace_emphasis,.red-graphite .markdown-cell .ace_list,.red-graphite .markdown-cell .ace_string.ace_blockquote,.red-graphite .markdown-cell .ace_constant.ace_language.ace_escape{color:#545454!important}",
+
+    "preview": ".red-graphite{color:#545454}.red-graphite a{color:#de4751}.red-graphite table tr:nth-child(even){background-color:#fbfbfb}.red-graphite table th{background:#fbfbfb}.red-graphite table td,.red-graphite table th{border-color:#dedede}.red-graphite blockquote{color:#333}.red-graphite hr{background-color:#dedede}.red-graphite code{font-size:16px}.red-graphite svg{background-color:#fbfbfb}.red-graphite .text-cell [style]{background-color:transparent!important}.red-graphite .text-cell,.red-graphite .diagram-cell,.red-graphite .latex-cell,.red-graphite .markdown-cell{font-size:18px;line-height:1.6;font-family:'Avenir Next';max-width:700px;margin:0 auto}.red-graphite .code-cell{font-size:16px;line-height:1.6;max-width:700px;margin:0 auto}.red-graphite .markdown-cell .ace_line{font-size:16px;}.red-graphite #tag-field{margin:8px 2px;}.red-graphite #tag-field .tag{background:#fbfbfb;border-radius:1px;color:#ccc;border:1px solid #dedede}body{font-family:'Avenir Next'}",
+
+    "presentation": ".red-graphite{color:#545454}.red-graphite a{color:#de4751}.red-graphite table tr:nth-child(even){background-color:#fbfbfb}.red-graphite table th{background:#efefef}.red-graphite table td,.red-graphite table th{border-color:#dedede}.red-graphite blockquote{color:#333}.red-graphite hr{background-color:#dedede}.red-graphite svg{background-color:#fbfbfb}.red-graphite .text-cell,.red-graphite .markdown-cell,.red-graphite .latex-cell{font-size:22px;line-height:1.6;font-family:'Avenir Next';max-width:75%;margin:0 auto;background-color:#fbfbfb;}.red-graphite .code-cell{font-size:20px;line-height:1.6;max-width:75%;margin:0 auto}body{font-family:'Avenir Next'}",
+
+    "pdf": "body{font-family:'Avenir Next'}",
+    "html": "body{font-family:'Avenir Next'}"
+  }
+}
