@@ -121,17 +121,17 @@
         "highlightColor": "#de4751"
       },
       "searchField": {
-        "textColor": "#a0a0a0",
-        "controlColor": "#2e3235",
+        "textColor": "#ccc",
+        "controlColor": "#a0a0a0",
         "pressedControlColor": "#de4751",
         "backgroundColor": "#fbfbfb",
         "borderColor": "#dedede",
         "placeholderColor": "#dedede"
       },
       "doneButton": {
-        "textColor": "#a0a0a0",
+        "textColor": "#de4751",
         "highlightBackgroundColor": "#de4751",
-        "borderColor": "#de4751"
+        "borderColor": "#e9b7bb"
       }
     },
     "bottomBar": {
@@ -144,12 +144,12 @@
     "backgroundColor": "#fbfbfb",
     "textColor": "#a0a0a0",
     "button": {
-      "tintColor": "#a0a0a0",
-      "highlightColor": "#de4751",
+      "tintColor": "#de4751",
+      "highlightColor": "#fbfbfb",
       "backgroundColor": "#fbfbfb",
-      "highlightBackgroundColor": "#fbfbfb",
-      "borderColor": "#dedede",
-      "highlightBorderColor": "#dedede"
+      "highlightBackgroundColor": "#de4751",
+      "borderColor": "#e9b7bb",
+      "highlightBorderColor": "#de4751"
     },
     "tagField": {
       "textColor": "#a0a0a0",
