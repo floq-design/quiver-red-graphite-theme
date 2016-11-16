@@ -19,13 +19,13 @@
     "table": {
       "backgroundColor": "#2e3235",
       "textColor": "#ccc",
-      "selectedTextColor": "#2e3235",
-      "emphasizedTextColor": "#2e3235",
+      "selectedTextColor": "#fbfbfb",
+      "emphasizedTextColor": "#fbfbfb",
       "iconColor": "#666",
       "selectedIconColor": "#2e3235",
       "emphasizedIconColor": "#2e3235",
-      "selectedRowBgColor": "#ccc",
-      "emphasizedRowBgColor": "#ccc"
+      "selectedRowBgColor": "#666",
+      "emphasizedRowBgColor": "#666"
     },
     "bottomBar": {
       "backgroundColor": "#2e3235",
